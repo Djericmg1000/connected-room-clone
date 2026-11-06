@@ -1,0 +1,15 @@
+*
+!.gitignore
+!connectedroom.io/
+connectedroom.io/*
+!connectedroom.io/*.html
+!connectedroom.io/*.png
+!connectedroom.io/*.xml
+!connectedroom.io/*.svg
+!connectedroom.io/*.webmanifest
+!connectedroom.io/assets/
+!connectedroom.io/assets/**
+!connectedroom.io/cf-fonts/
+!connectedroom.io/cf-fonts/**
+!connectedroom.io/setups/
+!connectedroom.io/setups/**
